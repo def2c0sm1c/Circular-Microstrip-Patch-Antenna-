@@ -36,6 +36,7 @@ CST Studio Suite
 
 The antenna successfully resonates near 2.4 GHz, achieving a return loss below -10 dB, indicating acceptable impedance matching. Simulation results demonstrate stable radiation characteristics with satisfactory gain and field distribution for the intended operating frequency.
 
+
 ## Repository Contents
 CST Design File -
  Antenna Geometry -
