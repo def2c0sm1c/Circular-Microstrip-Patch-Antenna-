@@ -28,6 +28,8 @@ CST Studio Suite
 
 ## Simulation Results
 
+![image alt](https://github.com/def2c0sm1c/Circular-Microstrip-Patch-Antenna-/blob/b5bf04a9889ed52058da9a251d9dc5e9b9105b13/Simulation_results.png)
+
 ## Results
 
 The antenna successfully resonates near 2.4 GHz, achieving a return loss below -10 dB, indicating acceptable impedance matching. Simulation results demonstrate stable radiation characteristics with satisfactory gain and field distribution for the intended operating frequency.
