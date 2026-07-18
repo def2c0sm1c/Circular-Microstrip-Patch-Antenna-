@@ -21,10 +21,12 @@ CST Studio Suite
 
 ## Antenna Specifications
 
-<img width="762" height="487" alt="image" src="https://github.com/user-attachments/assets/d1e858d1-a822-42ea-a712-df581c80165c" />
+https://github.com/def2c0sm1c/Circular-Microstrip-Patch-Antenna-/blob/06afa6f3b42dbf63a120091462fadbeb38654009/Antenna_Specifications.png
 
 
 ## Design Parameters
+
+https://github.com/def2c0sm1c/Circular-Microstrip-Patch-Antenna-/blob/06afa6f3b42dbf63a120091462fadbeb38654009/Design_Parameters.png
 
 ## Simulation Results
 
