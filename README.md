@@ -5,18 +5,30 @@ This repository presents the design and electromagnetic simulation of a 2.4 GHz 
 
 The project reproduces and evaluates an established circular patch antenna configuration to study its electromagnetic characteristics, including return loss, VSWR, radiation pattern, gain, surface current distribution, and electric field distribution.
 
-Objectives
+## Objectives
+
 Design a circular microstrip patch antenna operating at 2.4 GHz
+
 Simulate the antenna using CST Studio Suite
+
 Evaluate antenna performance through key electromagnetic parameters
+
 Analyze radiation characteristics and field distributions
-Software
+
+### Software 
+
 CST Studio Suite
+
+## Antenna Specifications
 
 <img width="762" height="487" alt="image" src="https://github.com/user-attachments/assets/d1e858d1-a822-42ea-a712-df581c80165c" />
 
 
-Results
+## Design Parameters
+
+## Simulation Results
+
+## Results
 
 The antenna successfully resonates near 2.4 GHz, achieving a return loss below -10 dB, indicating acceptable impedance matching. Simulation results demonstrate stable radiation characteristics with satisfactory gain and field distribution for the intended operating frequency.
 
