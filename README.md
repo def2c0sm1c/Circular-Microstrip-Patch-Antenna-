@@ -1,9 +1,7 @@
 # Circular-Microstrip-Patch-Antenna
 ## Overview
 
-This repository presents the design and electromagnetic simulation of a 2.4 GHz Circular Microstrip Patch Antenna using CST Studio Suite.
-
-The project reproduces and evaluates an established circular patch antenna configuration to study its electromagnetic characteristics, including return loss, VSWR, radiation pattern, gain, surface current distribution, and electric field distribution.
+This repository presents the design and electromagnetic simulation of a 2.4 GHz Circular Microstrip Patch Antenna using CST Studio Suite on an FR-4 lossy substrate. The project evaluates key antenna performance parameters, including return loss (S11), VSWR, gain, radiation pattern, surface current distribution, and electric field distribution
 
 ## Objectives
 
