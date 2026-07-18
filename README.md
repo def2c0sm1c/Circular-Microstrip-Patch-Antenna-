@@ -21,22 +21,20 @@ Results
 The antenna successfully resonates near 2.4 GHz, achieving a return loss below -10 dB, indicating acceptable impedance matching. Simulation results demonstrate stable radiation characteristics with satisfactory gain and field distribution for the intended operating frequency.
 
 ## Repository Contents
-CST Design File
-
-Antenna Geometry
-
-S11 Plot
-VSWR Plot
-Surface Current Distribution
-Electric Field Distribution
-Far-Field Radiation Pattern
-2D Radiation Pattern
-Skills Demonstrated
-Microstrip Antenna Design
-CST Studio Suite
-Electromagnetic Simulation
-Antenna Performance Analysis
-Return Loss Analysis
-VSWR Analysis
-Radiation Pattern Analysis
-RF Engineering Fundamentals
+CST Design File-
+Antenna Geometry-
+S11 Plot-
+VSWR Plot-
+Surface Current Distribution-
+Electric Field Distribution-
+Far-Field Radiation Pattern-
+2D Radiation Pattern-
+Skills Demonstrated-
+Microstrip Antenna Design-
+CST Studio Suite-
+Electromagnetic Simulation-
+Antenna Performance Analysis-
+Return Loss Analysis-
+VSWR Analysis-
+Radiation Pattern Analysis-
+RF Engineering Fundamentals.
