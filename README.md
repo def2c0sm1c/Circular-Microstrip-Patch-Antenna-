@@ -14,7 +14,6 @@ Software
 CST Studio Suite
 
 <img width="762" height="487" alt="image" src="https://github.com/user-attachments/assets/d1e858d1-a822-42ea-a712-df581c80165c" />
-<img width="762" height="487" alt="image" src="https://github.com/user-attachments/assets/3c51f6ce-eb2b-47ba-a83e-e9213df9a6f0" />
 
 
 Results
@@ -23,7 +22,9 @@ The antenna successfully resonates near 2.4 GHz, achieving a return loss below -
 
 ## Repository Contents
 CST Design File
+
 Antenna Geometry
+
 S11 Plot
 VSWR Plot
 Surface Current Distribution
